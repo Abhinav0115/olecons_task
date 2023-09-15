@@ -1,0 +1,67 @@
+{
+    "home": "page d'accueil",
+    "Home": "page d'accueil",
+
+    "about": "à propos",
+    "About": "à propos",
+
+    "welcome": "Bienvenue!",
+    "Welcome": "Bienvenue!",
+
+    "Hello": "Bonjour",
+    "hello": "Bonjour",
+
+    "contact": "Contact",
+    "Contact": "Contact",
+
+    "Sign up for our newsletter": "Inscrivez-vous à notre newsletter",
+
+    "Email address": "Adresse e-mail",
+    "Email Address": "Adresse e-mail",
+    "email address": "Adresse e-mail",
+    "email Address": "Adresse e-mail",
+
+    "Copyright": "droits d'auteur",
+    "copyright": "droits d'auteur",
+    "All Rights Reserved": "Tous droits réservés",
+
+    "Subscribe": "S'abonner",
+    "subscribe": "S'abonner",
+
+    "Contact Us": "Contactez-nous",
+    "Let's Start a Conversation": "Commençons une conversation",
+    "Sales and Product Inquiries": "Demandes de ventes et de produits",
+    "First Name": "Prénom",
+    "Last Name": "Nom de famille",
+    "Mobile Number": "Numéro de portable",
+    "Message": "Message",
+    "Submit": "Soumettre",
+
+    "About Us": "À propos de nous",
+    "We Create Trends": "Nous créons des tendances",
+    "Apple Inc. (Apple) designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories and sells a range of related services. The Company's products include iPhone, Mac, iPad, AirPods, Apple TV, Apple Watch, Beats products, HomePod, iPod touch and accessories": "Apple Inc. (Apple) conçoit, fabrique et commercialise des smartphones, des ordinateurs personnels, des tablettes, des appareils portables et des accessoires et vend une gamme de services connexes. Les produits de la société comprennent les iPhone, Mac, iPad, AirPods, Apple TV, Apple Watch, les produits Beats, HomePod, iPod touch et accessoires.",
+    "Learn More": "Apprendre encore plus",
+    "Smartphone": "Téléphone intelligent",
+    "What is an Apple smartphone? iPhone is a line of smartphones produced by Apple Inc. that use Apple's own iOS mobile operating system. The first-generation iPhone was announced by then-Apple CEO Steve Jobs on January 9, 2007": "Qu'est-ce qu'un smartphone Apple ? iPhone est une gamme de smartphones produits par Apple Inc. qui utilisent le système d'exploitation mobile iOS d'Apple. L'iPhone de première génération a été annoncé par Steve Jobs, alors PDG d'Apple, le 9 janvier 2007.",
+    "Personal Computers": "Ordinateur personnel",
+    "The Macintosh, or Mac, is Apple's line of personal computers. Its main product types are the iMac all-in-one desktop, Mac mini standard desktop, Mac Studio media-focused desktop, Mac Pro professional production workstation desktop, MacBook Air consumer laptop and MacBook Pro professional laptop": "Le Macintosh, ou Mac, est la gamme d'ordinateurs personnels d'Apple. Ses principaux types de produits sont l'ordinateur de bureau tout-en-un iMac, l'ordinateur de bureau standard Mac mini, l'ordinateur de bureau axé sur les médias Mac Studio, l'ordinateur de bureau pour station de travail de production professionnelle Mac Pro, l'ordinateur portable grand public MacBook Air et l'ordinateur portable professionnel MacBook Pro.",
+    "wearables": "appareils portables",
+    "Apple Watch is a wearable smartwatch that allows users to accomplish a variety of tasks, including making phone calls, sending text messages and reading email. Apple released the first Apple Watch on April 24, 2015": "Apple Watch est une montre intelligente portable qui permet aux utilisateurs d'accomplir diverses tâches, notamment passer des appels téléphoniques, envoyer des messages texte et lire des e-mails. Apple a lancé la première Apple Watch le 24 avril 2015",
+    "Why Choose Us": "Pourquoi nous choisir",
+    "Security and Privacy": "Sécurité et confidentialité",
+    "Better Performance": "Meilleure performance",
+    "No Bloatware": "Pas de bloatware",
+    "The Apple Ecosystem": "L'écosystème Apple",
+    "Retain Value": "Conserver la valeur",
+
+    "Your Awesome IPhone 15": "Votre superbe iPhone 15",
+    "The iPhone 15 Pro models feature the A17 Pro, complete with a new GPU. The industry's first 3 nanometer chip has a 6-core CPU which is 10 per cent faster than its predecessor, a neural engine that's up to twice as fast, and USB speeds of up to 10Gbps": "Les modèles iPhone 15 Pro sont équipés de l'A17 Pro, doté d'un nouveau GPU. La première puce de 3 nanomètres du secteur est dotée d'un processeur à 6 cœurs 10 % plus rapide que son prédécesseur, d'un moteur neuronal jusqu'à deux fois plus rapide et de vitesses USB allant jusqu'à 10 Gbit/s.",
+    "Dynamic Island": "Île dynamique",
+    "Dynamic Island the new pill-shaped area on the iPhone not only has camera hardware but also serves as a shape-changing hub for key iPhone alerts": "Dynamic Island, la nouvelle zone en forme de pilule sur l'iPhone, dispose non seulement d'un matériel de caméra, mais sert également de centre de changement de forme pour les alertes clés de l'iPhone.",
+    "Satellite connectivity": "Connectivité satellite",
+    "you can use a satellite connection when you have no cellular and Wi-Fi coverage to text emergency services, request roadside assistance, and share your location": "vous pouvez utiliser une connexion satellite lorsque vous n'avez pas de couverture cellulaire ni Wi-Fi pour envoyer des SMS aux services d'urgence, demander une assistance routière et partager votre position",
+    "A17 Pro chipset": "Jeu de puces A17 Pro",
+    "The A17 Pro is a first 3nm smartphone chipset, redesigned GPU that offers sustained graphical performance": "L'A17 Pro est un premier chipset pour smartphone 3 nm, un GPU repensé qui offre des performances graphiques soutenues",
+    "Aerospace‑grade titanium design, using the same alloy that spacecraft use for missions to Mars": "Conception en titane de qualité aérospatiale, utilisant le même alliage que celui utilisé par les vaisseaux spatiaux pour les missions vers Mars",
+    "The Action button lets you set shortcuts to access the camera or flashlight quickly, Translate, as well as set Focus modes": "Le bouton Action vous permet de définir des raccourcis pour accéder rapidement à l'appareil photo ou à la lampe de poche, traduire, ainsi que définir les modes de mise au point."
+}

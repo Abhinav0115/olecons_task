@@ -1,0 +1,55 @@
+.horiLine {
+    width: 65px;
+    height: 4px;
+    background-color: #be07f1;
+    border-radius: 20px;
+    border: 0px;
+    margin-top: 3px;
+}
+
+.widthSize {
+    width: 50% !important;
+}
+
+@media (max-width: 768px) {
+    .widthSize {
+        width: 100% !important;
+    }
+
+}
+
+.heightCss {
+    height: 60vh;
+}
+
+nav.stroke ul li a,
+nav.fill ul li a {
+    position: relative;
+}
+nav.stroke ul li a:after,
+nav.fill ul li a:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 0%;
+    content: ".";
+    color: transparent;
+    background: #c24d30;
+    height: 1.2px;
+}
+nav.stroke ul li a:hover:after {
+    width: 100%;
+}
+
+nav.fill ul li a {
+    transition: all 2s;
+}
+
+nav.fill ul li a:after {
+    text-align: left;
+    content: ".";
+    margin: 0;
+    opacity: 0;
+}
